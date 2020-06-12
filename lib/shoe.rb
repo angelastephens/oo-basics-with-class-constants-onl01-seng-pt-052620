@@ -18,6 +18,4 @@ class Shoe
     BRAND << brand
   end
     
-    
-
 end
